@@ -1,9 +1,9 @@
 # 👋 Hi there, 
 
-I’m Sarthak Sharma and i'm a Python Programmer. Currently i Persuing BCA (Bachler of Computer Application)
-and i have huge interest about AI and Machine Learning.
+I’m Sarthak Sharma and i'm a Python Programmer. Currently i Persuing BCA (Bachler of Computer Application). I have huge interest in AI and Machine Learning
+and i have one big power that's i'm fast learner.
 
-- 👀 I’m interested in Python Prgramming , Machine Learning and Learning new tech stuffs.
+- 👀 I’m interested in Python Prgramming , Machine Learning and Learn a new tech stuffs.
 - 🌱 I’m currently learning Machine Learning and Deep learning Concepts.
 - 💞️ I’m looking to collaborate on Google and many others Tech Companies.
 
