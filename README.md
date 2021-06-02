@@ -13,7 +13,7 @@ and i have one big power that's i'm fast learner.
 
 - I am Btter at :- 
 * Python Programming.
-* Data Science (Machine Learning , Deep Learning (CNN , RNN , Computer Vision , Keras))
+* Data Science (Machine Learning , Deep Learning , CNN , RNN , Computer Vision , Keras)
     
     
 ## "Talk is Cheap , Show me the Code"
