@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-1408&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-1408" /> </p>
 
-- 🤚 About me - **I'm data science student, a self-taught programmer. I was working on Data science for more than 8 months, In this period I'm learning new kinds of stuff in day-to-day life and solve many machine learning and deep learning problems. Always open to new opportunities 🙋‍♂️.**
+- 🤚 About me - **I'm data science student, a self-taught programmer. I am working on Data science for more than 10 months, In this period I'm learning new kinds of stuff in day-to-day life and solve many machine learning and deep learning problems. Always open to new opportunities 🙋‍♂️.**
 
 - 🌱 I’m currently learning - **Natural Language Processing and Computer Vision , I almost spend 1 year in Machine Learning and Deep Learning and Learn most of the advanced topics.**
 
