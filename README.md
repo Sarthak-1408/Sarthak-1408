@@ -15,7 +15,6 @@
 
 - 📫 How to reach me - **sarthakparashar1408@gmail.com**
 
-- ⚡ Fun fact - **I'm so lazy for doing other things than the Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
