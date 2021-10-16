@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://media-exp3.licdn.com/dms/image/C5616AQE5l8xALhO0_w/profile-displaybackgroundimage-shrink_350_1400/0/1617972955533?e=1629936000&v=beta&t=9KRpUMAUtD7fZJvFi7yBaDgqVKoR5RDoiiesw49hqiw)
 
 <h1 align="center">Hi 👋, I'm Sarthak Sharma</h1>
 <h3 align="center">Data Science Student</h3>
