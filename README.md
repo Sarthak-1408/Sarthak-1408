@@ -1,61 +1,27 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak Sharma</h1>
+<h1 align="center">Hi, I'm Sarthak Sharma</h1>
 <h3 align="center">Data Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-1408&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-1408" /> </p>
 
-- 🤚 About me - **I'm data science student, a self-taught programmer. I am working on Data science for more than 1 year, In this period I'm learning new kinds of stuff in day-to-day life and solve many machine learning and deep learning problems. Always open to new opportunities 🙋‍♂️.**
-
-- 🌱 I’m currently doing - **Master's in Data Science & Statistics**
-
-- 👯 I’m looking to collaborate on - **Any Tech Person who is passionate about AI and ML.**
-
-- 💬 Ask me about - **Machine Learning , Deep Learning , Computer Vision and Natural Language Processing**
-
-- 📫 How to reach me - **sarthakparashar1408@gmail.com**
+# 💫 About Me:
+🤚 I'm a data science student, and a self-taught programmer. I am working in Data science for more than 1 and a half years, In this period I'm learning new kinds of stuff in day-to-day life and solving many machine learning and deep learning problems. Always open to new opportunities.<br>🔭 I’m currently working on research in natural language processing.<br>👯 I’m looking to collaborate with any tech person who is passionate about AI and ML.<br>🌱 I’m currently doing Master's in Data Science & Statistics.<br>💬 Ask me about Machine Learning, Deep Learning, Statistics, Natural Language Processing and Computer Vision.<br>⚡ Fun fact Robots can have citizenship.
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak-sharma-5472aa1a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-sharma-5472aa1a0" height="30" width="40" /></a>
-<a href="https://kaggle.com/samarthsharma1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samarthsharma1408" height="30" width="40" /></a>
-<a href="https://instagram.com/i_sarthakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_sarthakofficial" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_sarthakofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthaksharma14) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sarthak-1408&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-1408&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-1408&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-
-#### Languages
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-
-#### Libraries/Frameworks
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="30" src="https://numpy.org/images/logos/numpy.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
-<code><img height="30" src="https://www.pngitem.com/pimgs/m/31-310639_pytorch-logo-png-transparent-png.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></code>
-<code><img height="30" src="https://ih1.redbubble.net/image.405700150.0170/st,small,507x507-pad,600x600,f8f8f8.u5.jpg"></code>
-<code><img height="30" src="https://docs.streamlit.io/en/0.79.0/_static/favicon.png"></code>
-
-#### Cloud Platforms
-<code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
-<code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-
-#### Others
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sarthak-1408&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sarthak-1408&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-1408&show_icons=true&locale=en&layout=compact" alt="sarthak-1408" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-1408&show_icons=true&locale=en" alt="sarthak-1408" /></p>
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sarthak-1408&theme=react-dark&hide_border=true)](https://github.com/Sarthak-1408/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
