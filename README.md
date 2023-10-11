@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sarthak Sharma</h1>
 <h3 align="center">Data Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sarthak-1408&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-1408" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-1408&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-1408" /> </p>
 
 # 💫 About Me:
 🤚 I'm a data science student, and a self-taught programmer. I am working in Data science for more than 1 and a half years, In this period I'm learning new kinds of stuff in day-to-day life and solving many machine learning and deep learning problems. Always open to new opportunities.<br>🔭 I’m currently working on research in natural language processing.<br>👯 I’m looking to collaborate with any tech person who is passionate about AI and ML.<br>🌱 I’m currently doing Master's in Data Science & Statistics.<br>💬 Ask me about Machine Learning, Deep Learning, Statistics, Natural Language Processing and Computer Vision.<br>⚡ Fun fact Robots can have citizenship.
