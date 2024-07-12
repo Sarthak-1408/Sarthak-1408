@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-1408&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-1408" /> </p>
 
 # 💫 About Me:
-🤚 I'm a AI/ML Engineer, and a self-taught programmer. I am working in Data science for more than 1 and a half years, In this period I'm learning new kinds of stuff in day-to-day life and solving many machine learning and deep learning problems. Always open to new opportunities.<br>🔭 I’m currently working on research in natural language processing.<br>👯 I’m looking to collaborate with any tech person who is passionate about AI and ML.<br>🌱 I’m currently doing Master's in Data Science & Statistics.<br>💬 Ask me about Machine Learning, Deep Learning, Statistics, Natural Language Processing and Computer Vision.<br>⚡ Fun fact Robots can have citizenship.
+🤚 I'm Sarthak Sharma, an AI/ML Engineer with 2 years of experience and a strong academic foundation in Artificial Intelligence. I specialize in developing high-accuracy machine learning models and large language models like GPT-4 and Claude 3.5 Sonnet. As a self-taught programmer, I've spent over one and a half years delving into data science, continuously learning and solving diverse machine learning and deep learning challenges. I am always open to new opportunities and collaborations. 
+
+<br >🔭 I’m currently working on innovative projects in LLM and Compuuter Vision.<br>👯  I’m eager to collaborate with passionate tech enthusiasts in AI and ML.<br>🌱 I have recently completed my Master’s in Data Science & Statistics from Graphic Era Hill University.<br>💬 Feel free to ask me about Machine Learning, Deep Learning, Statistics, Natural Language Processing, and Computer Vision.<br>⚡ Fun fact: Robots can have citizenship.
 
 
 ## 🌐 Socials:
